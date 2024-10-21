@@ -125,6 +125,16 @@ body {
   letter-spacing: -0.2px;
 }
 
+.footor-logo-adon{
+  width: 300px;
+  height: 300px;
+}
+@media (max-width: 767px) {
+  .footor-logo-adon{
+    width: 100px;
+    height: 100px;
+  }
+}
 .dark-scheme {
   color: var(--dark-body-font-color);
 }
