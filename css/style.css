@@ -135,6 +135,14 @@ body {
     height: 100px;
   }
 }
+.logo-main{
+  width: 100px;
+  height: 100px;
+}
+.logo-mobile{
+  width: 50px;
+  height: 50px;
+}
 .dark-scheme {
   color: var(--dark-body-font-color);
 }
