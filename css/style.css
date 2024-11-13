@@ -125,6 +125,24 @@ body {
   letter-spacing: -0.2px;
 }
 
+.footor-logo-adon{
+  width: 300px;
+  height: 300px;
+}
+@media (max-width: 767px) {
+  .footor-logo-adon{
+    width: 100px;
+    height: 100px;
+  }
+}
+.logo-main{
+  width: 100px;
+  height: 100px;
+}
+.logo-mobile{
+  width: 50px;
+  height: 50px;
+}
 .dark-scheme {
   color: var(--dark-body-font-color);
 }
